@@ -1,11 +1,11 @@
 import { useState } from 'react';
 import "./Dashboard.style.scss";
-import {Header} from '../../components/Header/Header'
+//import {HeaderComponent} from '../../components/HeaderComponent/HeaderComponent'
 export function Dashboard() {
 
   return (
     <>
-    <Header/>
+    {/* <Header/> */}
        <p>Oi</p>
     </>    
   )
